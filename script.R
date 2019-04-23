@@ -32,4 +32,3 @@ for (i in 1:90) {
   rasterImage(img, xleft=x, ybottom = y-imgheight, xright = x+imgwidth, ytop=y)
 }
 dev.off()
-
